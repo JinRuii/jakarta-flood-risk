@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and software release."
+type: software
+title: "Interpretable CNN-LSTM flood-risk modelling for Jakarta"
+version: 0.1.0
+authors:
+  - family-names: Jin
+    given-names: Rui
+  - family-names: Shabrina
+    given-names: Zahratu
+  - family-names: Colven
+    given-names: Emma
+keywords:
+  - flood risk
+  - CNN-LSTM
+  - Jakarta
+  - explainable AI
+  - geospatial data
+

@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.cpg text
+*.prj text
+*.csv text eol=lf
+*.dbf binary
+*.shp binary
+*.shx binary
+*.ipynb text eol=lf
+

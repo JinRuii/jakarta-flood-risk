@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+build/
+dist/
+outputs/
+models/
+*.keras
+*.h5
+*.hdf5
+*.ckpt*
+*.log
+.DS_Store
+Thumbs.db
+
+# Local study datasets
+/data/
